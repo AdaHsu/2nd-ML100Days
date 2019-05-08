@@ -9,3 +9,4 @@
 3. Day 003: 取得多元資料，[Day_003-1_HW.ipynb](https://github.com/AdaHsu/2nd-ML100Days/blob/master/homework/Day_003-1_HW.ipynb)、[Day_003-2_HW.ipynb](https://github.com/AdaHsu/2nd-ML100Days/blob/master/homework/Day_003-2_HW.ipynb)
 4. Day 004: 玩弄資料種類，[Day_004_HW.ipynb](https://github.com/AdaHsu/2nd-ML100Days/blob/master/homework/Day_004_HW.ipynb)
 5. Day 005: 資料視覺化初探，[Day_005_HW.ipynb](https://github.com/AdaHsu/2nd-ML100Days/blob/master/homework/Day_005_HW.ipynb)
+6. Day 006: 你和我們不同國，[Day_006_HW.ipynb](https://github.com/AdaHsu/2nd-ML100Days/blob/master/homework/Day_006_HW.ipynb)
