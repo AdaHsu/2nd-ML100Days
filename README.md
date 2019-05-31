@@ -11,3 +11,4 @@
 5. Day 005: 資料視覺化初探，[Day_005_HW.ipynb](https://github.com/AdaHsu/2nd-ML100Days/blob/master/homework/Day_005_HW.ipynb)
 6. Day 006: 你和我們不同國，[Day_006_HW.ipynb](https://github.com/AdaHsu/2nd-ML100Days/blob/master/homework/Day_006_HW.ipynb)
 7. Day 007: 沒有答案時就參考隔壁一下，[Day_007_HW.ipynb](https://github.com/AdaHsu/2nd-ML100Days/blob/master/homework/Day_007_HW.ipynb)
+8. Day 008: 總之就是卡！卡！卡！！，[Day_008_HW.ipynb](https://github.com/AdaHsu/2nd-ML100Days/blob/master/homework/Day_008_HW.ipynb)
